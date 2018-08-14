@@ -1,2 +1,2 @@
 # codebase
-Project_Lambda_codebsae
+Project_Lambda_codebase
